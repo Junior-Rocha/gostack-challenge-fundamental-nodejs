@@ -9,8 +9,8 @@
 
 
 <p align="center">
-  <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;
+  <a href="./LICENSE">Licença</a>
 </p>
 
 ##  Missão
